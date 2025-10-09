@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/zoejo/Documents/ARTFX/2025_2026/Demoreel/SilkSong/Unreal/SilkSoul/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/zoejo/Documents/ARTFX/2025_2026/Demoreel/SilkSong/Unreal/SilkSoul/Content/Silksong/SilksongLayout.umap",
+				"C:/Users/zoejo/Documents/ARTFX/2025_2026/Demoreel/SilkSong/Unreal/SilkSoul/Content/Silksong/_GENERATED/zoejo/Sphere_14BCCC18.uasset",
+				"C:/Users/zoejo/Documents/ARTFX/2025_2026/Demoreel/SilkSong/Unreal/SilkSoul/Content/Silksong/_GENERATED/zoejo/Box_0C318671.uasset",
+				"C:/Users/zoejo/Documents/ARTFX/2025_2026/Demoreel/SilkSong/Unreal/SilkSoul/Content/Silksong/_GENERATED/zoejo/Sphere_7DE5D0B7.uasset",
+				"C:/Users/zoejo/Documents/ARTFX/2025_2026/Demoreel/SilkSong/Unreal/SilkSoul/Content/Silksong/_GENERATED/zoejo/Box_3E2E9673.uasset",
+				"C:/Users/zoejo/Documents/ARTFX/2025_2026/Demoreel/SilkSong/Unreal/SilkSoul/Content/Silksong/_GENERATED/zoejo/Boolean_00C3FF54.uasset",
+				"C:/Users/zoejo/Documents/ARTFX/2025_2026/Demoreel/SilkSong/Unreal/SilkSoul/Content/Silksong/_GENERATED/zoejo/Box_15EECD8D.uasset",
+				"C:/Users/zoejo/Documents/ARTFX/2025_2026/Demoreel/SilkSong/Unreal/SilkSoul/Content/Silksong/_GENERATED/zoejo/Box_CA40F836.uasset",
+				"C:/Users/zoejo/Documents/ARTFX/2025_2026/Demoreel/SilkSong/Unreal/SilkSoul/Content/Silksong/_GENERATED/zoejo/Box_76F93698.uasset",
+				"C:/Users/zoejo/Documents/ARTFX/2025_2026/Demoreel/SilkSong/Unreal/SilkSoul/Content/Silksong/_GENERATED/zoejo/Extrude_06E71BE3.uasset",
+				"C:/Users/zoejo/Documents/ARTFX/2025_2026/Demoreel/SilkSong/Unreal/SilkSoul/Content/Silksong/01_MATERIALS/01_MESHES/Hornet_F-Pose_LowPoly.uasset",
+				"C:/Users/zoejo/Documents/ARTFX/2025_2026/Demoreel/SilkSong/Unreal/SilkSoul/Content/Silksong/01_MATERIALS/03_MATERIALS/01_HornetRed.uasset",
+				"C:/Users/zoejo/Documents/ARTFX/2025_2026/Demoreel/SilkSong/Unreal/SilkSoul/Content/Silksong/_GENERATED/zoejo/Rectangle_B3D22E47.uasset",
+				"C:/Users/zoejo/Documents/ARTFX/2025_2026/Demoreel/SilkSong/Unreal/SilkSoul/Content/Silksong/_GENERATED/zoejo/Torus_CFCB887D.uasset",
+				"C:/Users/zoejo/Documents/ARTFX/2025_2026/Demoreel/SilkSong/Unreal/SilkSoul/Content/Silksong/_GENERATED/zoejo/Box_6EA011D2.uasset",
+				"C:/Users/zoejo/Documents/ARTFX/2025_2026/Demoreel/SilkSong/Unreal/SilkSoul/Content/Silksong/_GENERATED/zoejo/Boolean_7ECDF26D.uasset",
+				"C:/Users/zoejo/Documents/ARTFX/2025_2026/Demoreel/SilkSong/Unreal/SilkSoul/Content/Silksong/_GENERATED/zoejo/Box_F9C4FC87.uasset",
+				"C:/Users/zoejo/Documents/ARTFX/2025_2026/Demoreel/SilkSong/Unreal/SilkSoul/Content/Silksong/_GENERATED/zoejo/Boolean_F365EF30.uasset",
+				"C:/Users/zoejo/Documents/ARTFX/2025_2026/Demoreel/SilkSong/Unreal/SilkSoul/Content/Silksong/_GENERATED/zoejo/Boolean_E5C063F8.uasset",
+				"C:/Users/zoejo/Documents/ARTFX/2025_2026/Demoreel/SilkSong/Unreal/SilkSoul/Content/Silksong/_GENERATED/zoejo/Cylinder_37180CE9.uasset",
+				"C:/Users/zoejo/Documents/ARTFX/2025_2026/Demoreel/SilkSong/Unreal/SilkSoul/Content/Silksong/_GENERATED/zoejo/Box_B2F38EC3.uasset",
+				"C:/Users/zoejo/Documents/ARTFX/2025_2026/Demoreel/SilkSong/Unreal/SilkSoul/Content/Silksong/_GENERATED/zoejo/Box_237805B5.uasset"
+			]
+		}
+	]
+}
